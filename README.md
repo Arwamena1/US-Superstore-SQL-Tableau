@@ -11,7 +11,7 @@ This project explores the [US Superstore dataset](https://www.kaggle.com/dataset
 
 ## Files
 - 'Raw dataset': https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
-- `results_table.xlsx`: Contains outputs from SQL queries and  SQL code for analysis  
+- `results_tables.xlsx`: Contains outputs from SQL queries and  SQL code for analysis  
 - `dashboard_screenshot.png`: Tableau dashboard preview  
  
 
