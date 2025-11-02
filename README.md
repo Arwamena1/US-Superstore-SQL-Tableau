@@ -10,7 +10,7 @@ This project explores the [Global Superstore dataset](https://www.kaggle.com/dat
 5. Which shipping modes are fastest and most profitable?
 
 ## Files
--  'Raw data'
+- 'Raw dataset': https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
 - `results_table.xlsx`: Contains outputs from SQL queries and  SQL code for analysis  
 - `dashboard_screenshot.png`: Tableau dashboard preview  
  
