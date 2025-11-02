@@ -1,6 +1,6 @@
 # Global Superstore SQL + Tableau Project
 
-This project explores the [Global Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) using **SQL (BigQuery)** and **Tableau Public**.
+This project explores the [US Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) using **SQL (BigQuery)** and **Tableau Public**.
 
 ## Questions Answered
 1. What are the top 10 most profitable products?
